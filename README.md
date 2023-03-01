@@ -12,7 +12,6 @@
 ```
 Folder/
 |- EDA/          # EDA (ipynb)
-|- DATA/         # data (csv & parquet)
 |- model/        # final model (py)
 |- reference/    # paper (pdf)
 ```
