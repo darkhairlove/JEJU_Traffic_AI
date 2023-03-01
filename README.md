@@ -12,7 +12,7 @@
 ```
 Folder/
 |- EDA/          # EDA (ipynb)
-|- model/        # final model (py)
+|- MODEL/        # final model (py)
 |- reference/    # paper (pdf)
 ```
 
