@@ -51,4 +51,4 @@ weather.csv : 제주도 날씨 데이터
 - **Public score** 17등 3.09801 
 
 ## Comments
-[느낀점](https://www.notion.so/40c65577c29b46b585cc8712a5b060d9?pvs=4#a401159915684fbdab79d7c8d2cb680b)
+[느낀점](https://www.notion.so/data--scientist/7c20dca8f874427bbc0d5166a91162b2?pvs=4#39456aed1cab4a46ab09bc78388f40fb)
